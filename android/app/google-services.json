@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339709581219",
+    "project_id": "burgerfactory-694ac",
+    "storage_bucket": "burgerfactory-694ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339709581219:android:127eab8ae2472a5f256c16",
+        "android_client_info": {
+          "package_name": "com.burgerfactory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwY3tYCIHW03Sy9DfKMPxD1DQ7M4KBIDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
